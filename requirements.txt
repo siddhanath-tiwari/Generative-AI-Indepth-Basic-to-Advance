@@ -5,5 +5,5 @@ gTTS
 google-generativeai
 python-dotenv
 streamlit
-
+protobuf
 -e .
